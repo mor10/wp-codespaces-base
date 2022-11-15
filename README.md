@@ -19,15 +19,15 @@ These criteria serve to test the limits and edges of Codespaces PHP + DB support
 
 # ToDo
 
-[x] Set up base repo
-[x] Install PHP + MariaDB 
-[ ] Core config XDebug
-[ ] Stand up XDebug reproducable tests
-[ ] Stand up WP-CLI
-[ ] Install core WordPress
-[ ] Set up WP database with [Theme Test data](https://github.com/WPTT/theme-test-data)
-[ ] Stand up live preview
-[ ] Test WP<->database connection by populating and editing in-app settings and content
+- [x] Set up base repo
+- [x] Install PHP + MariaDB 
+- [ ] Core config XDebug
+- [ ] Stand up XDebug reproducable tests
+- [ ] Stand up WP-CLI
+- [ ] Install core WordPress
+- [ ] Set up WP database with [Theme Test data](https://github.com/WPTT/theme-test-data)
+- [ ] Stand up live preview
+- [ ] Test WP<->database connection by populating and editing in-app settings and content
 
 # Larger plan
 

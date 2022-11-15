@@ -17,6 +17,18 @@ Upon opening a Codespace from this template, the following are pre-configured an
 
 These criteria serve to test the limits and edges of Codespaces PHP + DB support.
 
+# ToDo
+
+[x] Set up base repo
+[x] Install PHP + MariaDB 
+[ ] Core config XDebug
+[ ] Stand up XDebug reproducable tests
+[ ] Stand up WP-CLI
+[ ] Install core WordPress
+[ ] Set up WP database with [Theme Test data](https://github.com/WPTT/theme-test-data)
+[ ] Stand up live preview
+[ ] Test WP<->database connection by populating and editing in-app settings and content
+
 # Larger plan
 
 Once the MVP criteria are met, the long term plan is to build a series of nested container templates for WordPress and other PHP-based CMS development. The structure will look something like this:

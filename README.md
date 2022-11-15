@@ -31,10 +31,10 @@ Additionally / parallell / adjacent to this project sits the larger and more com
 
 # Relevant sources, links, and related projects
 
-- [PHP+MariaDB dev container](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/php-mariadb) by @microsoft
-- [WordPress Develop](https://github.com/helen/wordpress-develop/tree/add/devcontainer) by @helen 
-- [WordPress Codespace](https://github.com/dinhtungdu/wordpress-codespace) by @dinhtungdu
-- [VS Code Remote Try WP](https://github.com/soderlind/vscode-remote-try-wp) by @soderlind
+- [PHP+MariaDB dev container](https://github.com/microsoft/vscode-dev-containers/tree/main/containers/php-mariadb) by [@microsoft](https://github.com/microsoft)
+- [WordPress Develop](https://github.com/helen/wordpress-develop/tree/add/devcontainer) by [@helen](https://github.com/helen)
+- [WordPress Codespace](https://github.com/dinhtungdu/wordpress-codespace) by [@dinhtungdu](https://github.com/dinhtungdu)
+- [VS Code Remote Try WP](https://github.com/soderlind/vscode-remote-try-wp) by [@soderlind](https://github.com/soderlind)
 - [DrupalPod](https://www.drupal.org/docs/develop/development-tools/drupalpod/getting-started)
 - [Reddit thread on issues encountered](https://www.reddit.com/r/github/comments/pg39cp/has_anyone_had_any_success_setting_up_wordpress/)
 
@@ -46,6 +46,6 @@ This is an open source project licensed under GPL v3.0. All contributors welcome
 
 This project is a collaboration between many interested parties including:
 
-- @mor10 [owner] Senior Staff Instructor, LinkedIn Learning (former WordPress contributor)
-- @burkeholland [owner]
+- [@mor10](https://github.com/mor10) [owner] Senior Staff Instructor, LinkedIn Learning (former WordPress contributor)
+- [@burkeholland](https://github.com/burkeholland) [owner]
 
